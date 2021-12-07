@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DEleCNHilZ1J2UG6aRUiXEpCdPuIjdMGJCFdj+ZAE4DvkV09X+71Mn5KqBU70upygKpaKmeb1zF7cNISL0EXFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Source\\Repos\\PilPenky\\FileManager\\ConsoleApp36\\ConsoleApp36\\ConsoleApp36.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
